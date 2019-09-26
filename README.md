@@ -1,7 +1,5 @@
 # Assembler
 
-This project is made as a final project for "Programming Lab" course.  
-
 Assembler for a pseudo assembly language.  
 Every machine word is 12-bit. The assembler creates 3 files:  
 - ob file - The instruction code.  
